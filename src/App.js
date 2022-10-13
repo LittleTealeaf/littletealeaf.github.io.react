@@ -1,12 +1,9 @@
-import './styles/App.scss';
+import "./styles/App.scss";
 
-function App() {
+const App = () => {
+  
 
-  return (
-    <div  id="App">
-      I am not a bitd
-    </div>
-  );
-}
+  return <div id="App">I am not a bird</div>;
+};
 
 export default App;
