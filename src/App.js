@@ -1,9 +1,10 @@
-import './styles/App.css';
+import './styles/App.scss';
 
 function App() {
+
   return (
-    <div className="App">
-      I am a bird
+    <div  id="App">
+      I am not a bitd
     </div>
   );
 }
